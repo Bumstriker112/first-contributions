@@ -1,6 +1,8 @@
 # Contributors
 - [Nayan Jain](https://github.com/NayanJain09)
+- {Martin Renteria}{https://github.com/MartinRenteria}
 - [Saranya Damodaran](https://github.com/saranyadmdrn)
+- [Chris Hoang](https://github.com/bucket420)
 - [Onkar Nardekar] (https://github.com/OmiGitProjects)
 - [Vijay Gupta](https://github.com/vijaygupta18)
 - [Yehezkiel Gunawan](https://github.com/yehezkielgunawan)
@@ -2576,6 +2578,7 @@ Keshav goel
 - [Khizar Alam](https://github.com/kheealam/)
 - [siddharth chauhan](https://github.com/officialsiddharthchauhan)
 - [Mileba Micheal](https://github.com/Mileba)
+- [Subhodeep Kundu](https://github.com/Subhodeep2000)
 - [rimow](https://github.com/rimow)
 - [Matthew Sabia](https://github.com/MatthewSabia)
 - [Ekemini Okpongkpong](https://github.com/KemmieKemy)
